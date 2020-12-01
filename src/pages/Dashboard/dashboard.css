@@ -1,0 +1,8 @@
+body {
+  background: rgba(0, 0, 0, 500) url("../../images/faa-drones.jpg.webp")
+    no-repeat;
+  background-size: cover;
+}
+.dashboard {
+  background-color: white;
+}
